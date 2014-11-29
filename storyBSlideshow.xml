@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<slideshow>
+  <slide image="Assets/Spritesheets/StoryB/TLP_Sprite_One.png">Slide 1</slide>
+  <slide image="Assets/Spritesheets/StoryB/TLP_Sprite_Two.png">Slide 2</slide>
+  <slide image="Assets/Spritesheets/StoryB/TLP_Sprite_Three.png">Slide 3</slide>
+  <slide image="Assets/Spritesheets/StoryB/TLP_Sprite_Four.png">Slide 4</slide>
+  <slide image="Assets/Spritesheets/StoryB/TLP_Sprite_Five.png">Slide 5</slide>
+  <slide image="Assets/Spritesheets/StoryB/TLP_Sprite_Six.png">Slide 6</slide>
+  <slide image="Assets/Spritesheets/StoryB/TLP_Sprite_Seven.png">Slide 7</slide>
+  <slide image="Assets/Spritesheets/StoryB/TLP_Sprite_Eight.png">Slide 8</slide>
+  <slide image="Assets/Spritesheets/StoryB/TLP_Sprite_Nine.png">Slide 9</slide>
+  <slide image="Assets/Spritesheets/StoryB/TLP_Sprite_Ten.png">Slide 10</slide
+  <slide image="Assets/Spritesheets/StoryB/TLP_Sprite_Eleven.png">Slide 11</slide>
+  <slide image="Assets/Spritesheets/StoryB/TLP_Sprite_Twelve.png">Slide 12</slide>
+</slideshow>
