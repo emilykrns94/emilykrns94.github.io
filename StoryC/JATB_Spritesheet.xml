@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="JATB_Spritesheet.png">
+	<!-- Created with Adobe Flash Professional version 13.1.0.226 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="JATB_Sprite_Eight.png" x="0" y="0" width="363" height="230" pivotX="0" pivotY="0"/>
+	<SubTexture name="JATB_Sprite_Five.png" x="363" y="0" width="363" height="230" pivotX="0" pivotY="0"/>
+	<SubTexture name="JATB_Sprite_Four.png" x="0" y="230" width="363" height="230" pivotX="0" pivotY="0"/>
+	<SubTexture name="JATB_Sprite_Nine.png" x="363" y="230" width="363" height="230" pivotX="0" pivotY="0"/>
+	<SubTexture name="JATB_Sprite_One.png" x="0" y="460" width="363" height="230" pivotX="0" pivotY="0"/>
+	<SubTexture name="JATB_Sprite_Seven.png" x="363" y="460" width="363" height="230" pivotX="0" pivotY="0"/>
+	<SubTexture name="JATB_Sprite_Six.png" x="0" y="690" width="363" height="229" pivotX="0" pivotY="0"/>
+	<SubTexture name="JATB_Sprite_Three.png" x="363" y="690" width="363" height="230" pivotX="0" pivotY="0"/>
+	<SubTexture name="JATB_Sprite_Two.png" x="0" y="920" width="363" height="230" pivotX="0" pivotY="0"/>
+</TextureAtlas>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="TLP_Spritesheet.png">
+	<!-- Created with Adobe Flash Professional version 13.1.0.226 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="TLP_Sprite_Eight.png" x="0" y="0" width="363" height="218" pivotX="0" pivotY="0"/>
+	<SubTexture name="TLP_Sprite_Eleven.png" x="363" y="0" width="363" height="218" pivotX="0" pivotY="0"/>
+	<SubTexture name="TLP_Sprite_Five.png" x="0" y="218" width="363" height="230" pivotX="0" pivotY="0"/>
+	<SubTexture name="TLP_Sprite_Four.png" x="363" y="218" width="363" height="230" pivotX="0" pivotY="0"/>
+	<SubTexture name="TLP_Sprite_Nine.png" x="0" y="448" width="363" height="218" pivotX="0" pivotY="0"/>
+	<SubTexture name="TLP_Sprite_One.png" x="363" y="448" width="362" height="229" pivotX="0" pivotY="0"/>
+	<SubTexture name="TLP_Sprite_Seven.png" x="0" y="677" width="363" height="230" pivotX="0" pivotY="0"/>
+	<SubTexture name="TLP_Sprite_Six.png" x="363" y="677" width="363" height="230" pivotX="0" pivotY="0"/>
+	<SubTexture name="TLP_Sprite_Ten.png" x="0" y="907" width="363" height="218" pivotX="0" pivotY="0"/>
+	<SubTexture name="TLP_Sprite_Three.png" x="363" y="907" width="363" height="230" pivotX="0" pivotY="0"/>
+	<SubTexture name="TLP_Sprite_Twelve.png" x="0" y="1137" width="354" height="230" pivotX="0" pivotY="0"/>
+	<SubTexture name="TLP_Sprite_Two.png" x="354" y="1137" width="363" height="230" pivotX="0" pivotY="0"/>
+</TextureAtlas>

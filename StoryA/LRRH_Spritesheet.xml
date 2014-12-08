@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="LRRH_Spritesheet.png">
+	<!-- Created with Adobe Flash Professional version 13.1.0.226 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="LRRH _Sprite_Eight.png" x="0" y="0" width="363" height="230" pivotX="0" pivotY="0"/>
+	<SubTexture name="LRRH _Sprite_Five.png" x="363" y="0" width="363" height="230" pivotX="0" pivotY="0"/>
+	<SubTexture name="LRRH _Sprite_Four.png" x="0" y="230" width="363" height="230" pivotX="0" pivotY="0"/>
+	<SubTexture name="LRRH _Sprite_Nine.png" x="363" y="230" width="363" height="230" pivotX="0" pivotY="0"/>
+	<SubTexture name="LRRH _Sprite_Seven.png" x="0" y="460" width="363" height="230" pivotX="0" pivotY="0"/>
+	<SubTexture name="LRRH _Sprite_Six.png" x="363" y="460" width="363" height="230" pivotX="0" pivotY="0"/>
+	<SubTexture name="LRRH _Sprite_Ten.png" x="0" y="690" width="363" height="230" pivotX="0" pivotY="0"/>
+	<SubTexture name="LRRH _Sprite_Three.png" x="363" y="690" width="363" height="230" pivotX="0" pivotY="0"/>
+	<SubTexture name="LRRH _Sprite_Two.png" x="0" y="920" width="363" height="230" pivotX="0" pivotY="0"/>
+	<SubTexture name="LRRH_Sprite_One.png" x="363" y="920" width="363" height="230" pivotX="0" pivotY="0"/>
+</TextureAtlas>
