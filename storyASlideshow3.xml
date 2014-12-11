@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<slideshow imagePath ="StoryA">
+  <slide image="LRRH_Sprite_One.png">Slide 1</slide>
+  <slide image="LRRH_Sprite_Two.png">Slide 2</slide>
+  <slide image="LRRH_Sprite_Three.png">Slide 3</slide>
+  <slide image="LRRH_Sprite_Four.png">Slide 4</slide>
+  <slide image="LRRH_Sprite_Five.png">Slide 5</slide>
+  <slide image="LRRH_Sprite_Six.png">Slide 6</slide>
+  <slide image="LRRH_Sprite_Seven.png">Slide 7</slide>
+  <slide image="LRRH_Sprite_Eight.png">Slide 8</slide>
+  <slide image="LRRH_Sprite_Nine.png">Slide 9</slide>
+  <slide image="LRRH_Sprite_Ten.png">Slide 10</slide>
+</slideshow>
