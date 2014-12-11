@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="utf-8"?>
 <slideshow imagePath ="StoryA">
   <slide image="LRRH_Sprite_One.png">Slide 1</slide>
   <slide image="LRRH_Sprite_Two.png">Slide 2</slide>
