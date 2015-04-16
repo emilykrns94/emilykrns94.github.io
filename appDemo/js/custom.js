@@ -5,7 +5,8 @@ $(document).ready(function(){
           method: "GET",
           url:"//lit-cliffs-5322.herokuapp.com/api/yourName"
       }).done(function(responce){
-          console.log(responce.name);   
+          console.log(responce.name); 
+          $('div#yourName').html("<p>"+responce.name"</p>");
       }).fail(function(msg){
           console.log("Error");
           
