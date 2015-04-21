@@ -1,24 +1,45 @@
-<!--
-To change this template use Tools | Templates.
--->
 <!DOCTYPE html>
 <html>
-<head>
-    <title>New App</title>
-</head>
-<body>
-    <h1>Welcome to my app</h1>
-    <button id="yourNameButton">
-        Get App Name   
-    </button>
-    <div id="yourName">
-    </div>
-    
-    
-    
-    <script src="https://code.jquery.com/jquery-1.11.2.js"></script>
-    <script src = js/custom.js></script>
-
-</body>
-    
-</html>
+    <head>
+        <title>Demo</title>
+        <link rel = stylesheet href="https://cdnjs.cloudflare.com/ajax/libs/skeleton/2.0.4/skeleton.css">
+            <link rel = stylesheet href="css/style.css">
+            </head>
+            <body class ="container">
+                <div class ="row">
+                    <div class = "sixteen columns">
+                        <h1>Welcome</h1>
+                    </div>
+                </div>
+                <div class ="row">
+                    <div class = "three columns">
+                        <button id="yourNameButton">
+                    Get App Name   
+                </button>
+                    </div>
+                </div>
+                <div class ="row">
+                    <div class = "nine columns">
+                        <div id="yourName"></div>
+                    </div>
+                </div>
+                <div class ="row">
+                    <div class = "nine columns">
+                        <input type="email" id="myName" name="myName"/>Enter Your Name:
+               
+                    </div>
+                    <div class = "three columns">
+                        <button id="myNameButton">
+                    Get My Name   
+            </button>
+                    </div>
+                </div>
+                <div class ="row">
+                    <div class = "nine columns">
+                        <div id="myNameResponce"></div>
+                    </div>
+                </div>
+                <script src="https://code.jquery.com/jquery-1.11.2.js"></script>
+                <script src = js/custom.js></script>
+            </body>
+        </html>
